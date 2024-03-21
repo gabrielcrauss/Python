@@ -1,2 +1,2 @@
 # Python
-<img src="pytho.png">
+<img src="python.png">
